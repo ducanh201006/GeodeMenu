@@ -1,3 +1,8 @@
+# 1.7.9-beta.1
+
+- Fixed performance issues (thanks @dankmeme01)
+- Improved best run (thanks @128x16)
+
 # 1.7.8
 
 - Fixed Speedhack being extremely laggy
